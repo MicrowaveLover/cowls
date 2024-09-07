@@ -48,7 +48,7 @@ p {
 .cowl1:hover {
     width:100px;
     height:100px;
-    transform: translateY(0px) translateX(1200px);
+    transform: translateY(0px) translateX(2000px);
     transition:3s ease-in
 }
 
