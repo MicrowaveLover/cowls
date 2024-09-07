@@ -60,8 +60,6 @@ p {
 }
 
 .cowlcollection {
-    border:5px solid darkblue;
-    border-radius:10px;
     display: flex;
     justify-content: center;
 }
